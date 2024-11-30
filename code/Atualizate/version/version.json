@@ -1,0 +1,11 @@
+{
+  "RepoOwner": "NomeExemplo",
+  "RepoName": "NomeRepositorio",
+  "BranchName": "NomeBranch",
+  "TokenAPI": "TokenGitub",
+  "Number": "00.00.0001",
+  "NameExecutable": "NomeExecutavel",
+  "PathExecutable": "PastaExecutavel",
+  "NameFileZip": "ArquivoPrinciapl.zip",
+  "Outdate": "NaoAtualizavel"
+}

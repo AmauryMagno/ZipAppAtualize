@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HqlOHWCuCwf8sEgLuQREMae2tbKyJVYVu7HDq7P0fxulMFkDKmyq99Qu+AF07bPKwudk5dJT2VT/54ylHJfL7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amaur\\OneDrive\\Documentos\\GitHub\\ZipAppAtualize\\code\\Atualizate\\Atualizate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amaur\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
