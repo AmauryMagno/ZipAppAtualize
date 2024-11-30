@@ -1,6 +1,6 @@
-`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
+`Projeto: Desenvolvimento de uma Aplicação de Atualização Automatica`
 
-`3º Eixo - 02/2024`
+`ZipAppAtualizate - 11/2024`
 
 O objetivo é desenvolver uma aplicação desktop que efetua o processo de atualização para aplicações terceiras.
 
