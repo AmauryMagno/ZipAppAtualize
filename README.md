@@ -1,6 +1,6 @@
 `Projeto: Desenvolvimento de uma Aplicação de Atualização Automatica`
 
-`ZipAppAtualizate - 11/2024`
+`ZipAppAtualize - 11/2024`
 
 O objetivo é desenvolver uma aplicação desktop que efetua o processo de atualização para aplicações terceiras.
 
